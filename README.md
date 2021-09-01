@@ -13,13 +13,17 @@ This is to help the patients to know which is the best hospital near his/her hou
 2.After logging into the home page, there is a search bar where the patient can search the disease they have (suppose diabetes.) The search result will be generated   in a manner such that the hospital that is rated highest for that disease (in this case diabetes) and is also near his/her house comes first. Each result consists   of a picture, name and ratings of the hospital and also a Learn More button. (The 'Learn More' button works only for the first result as this is a prototype. It     will have the same results for the other 'Learn More' buttons as well.)
 
 3.On clicking the 'Learn More' button it will take you to the 'Details Page' (File name: details.html). In this page it shows the picture of the hospital in a slider with the ratings and name of the hospital below. Thre are four buttons Check out Doctors, Reviews of Hospital, Book an appointment and Navigate.
+
    i) On clicking the 'Check out' Doctors button it will show the doctors which are there in thospital for the particular disease he/she searched for  
       (here:diabetes).
+      
    ii)  On clicking the 'Reviews of Hospital' button it will show all the reviews of the hospital concerning the particular disease he/she searched for
         (here:diabetes).
+        
    iii)On clicking the 'Book an appointment' it will show a calender and also a bar for selecting the time where the patient can choose hi/sher appropriate date and 
        time, and accordingly it will show the results of all the doctors, beds, other aminities available for that particular disease (here:diabetes) on that date 
        and time. Thus, he/she can choose the doctors by seeing the rating of doctors given beside their names and book an appointment.
+       
    iv) On clicking the  'Navigate' button it will open Google Maps where it will show the shortest and fastest path from his/her home to the hospital.
    
 In the top right of the navigation bar, there is a profile icon where one can logout or edit profile accordingly.
