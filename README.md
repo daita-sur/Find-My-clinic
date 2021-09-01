@@ -1,5 +1,11 @@
 # Find-My-clinic
 ## A website where all hospital information will be there sorted in a way  such that the best hospitals will be at top and it will be based on the disease you give    This is only the UI/UX .
+### Team name:
+Vincenzo
+### Team members: 
+Daita Sur
+Utkaarsh Saha
+
 
 ### Objective : 
 This is to help the patients to know which is the best hospital near his/her house and has the appropriate resources for their disease. As we know that all hospitals does not have all the resources for all disease and during emergencies it is very difficult to find a hospital for their disease . Hence we built this website in order to help them find the best hospital near their home with the appropriate amminities and doctors present for their disease.
